@@ -138,7 +138,7 @@ p {
   max-width: 150px;
 }
 
-.search-engine-optimization {
+.seoul {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -148,7 +148,7 @@ p {
   animation: slide 2s ease-out;
 }
 
-.online-reputation-management {
+.astronomer {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -157,7 +157,7 @@ p {
   color: #ffffff;
 }
 
-.social-media-marketing {
+.university {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -166,30 +166,30 @@ p {
   color: #ffffff;
 }
 
-.search-engine-optimization img {
+.seoul img {
   max-height: 200px;
 }
 
-.online-reputation-management img {
+.astronomer img {
   max-height: 200px;
 }
 
-.social-media-marketing img {
+.university img {
   max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.seoul h2 {
   margin-bottom: 20px;
   font-size: 36px;
   animation: slide 2s ease-out;
 }
 
-.online-reputation-management h2 {
+.astronomer h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.university h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
