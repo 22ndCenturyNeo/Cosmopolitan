@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #92f9bb;
+  background-color: #ffffff;
 }
 
 .header {
@@ -50,14 +50,14 @@ a {
 }
 
 p {
-  font-size: 16px;
+  font-size: 100% 16px;
 }
 
-.hero {
+.real-dream {
   height: 1000px;
   width: auto;
   margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-image: url("../images/AdobeStock_172214102.jpeg");
   background-size: cover;
   background-position: 0 90px;
 }
